@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Day5\JagggedArrayExwecise-01\JagggedArrayExwecise-01\bin\Debug\JagggedArrayExwecise-01.exe.config
+D:\Mphasis\.net\Day5\JagggedArrayExwecise-01\JagggedArrayExwecise-01\bin\Debug\JagggedArrayExwecise-01.exe
+D:\Mphasis\.net\Day5\JagggedArrayExwecise-01\JagggedArrayExwecise-01\bin\Debug\JagggedArrayExwecise-01.pdb
+D:\Mphasis\.net\Day5\JagggedArrayExwecise-01\JagggedArrayExwecise-01\obj\Debug\JagggedArrayExwecise-01.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day5\JagggedArrayExwecise-01\JagggedArrayExwecise-01\obj\Debug\JagggedArrayExwecise-01.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day5\JagggedArrayExwecise-01\JagggedArrayExwecise-01\obj\Debug\JagggedArrayExwecise-01.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day5\JagggedArrayExwecise-01\JagggedArrayExwecise-01\obj\Debug\JagggedArrayExwecise-01.exe
+D:\Mphasis\.net\Day5\JagggedArrayExwecise-01\JagggedArrayExwecise-01\obj\Debug\JagggedArrayExwecise-01.pdb
